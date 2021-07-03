@@ -1,34 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@evandrosilva558 
-drobcosta
-/
-digital_innovation_one
-9
-153196
-Code
-Issues
-4
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-icon digital_innovation_one/icon dml.sql
-@drobcosta
-drobcosta Fix final
-Latest commit ab5591a on Nov 19, 2019
- History
- 1 contributor
-3549 lines (3544 sloc)  524 KB
-  
 INSERT INTO banco (numero, nome) VALUES (654,'Banco A.J.Renner S.A.'::VARCHAR(50));
 INSERT INTO banco (numero, nome) VALUES (246,'Banco ABC Brasil S.A.'::VARCHAR(50));
 INSERT INTO banco (numero, nome) VALUES (25,'Banco Alfa S.A.'::VARCHAR(50));
